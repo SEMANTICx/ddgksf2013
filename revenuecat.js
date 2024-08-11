@@ -167,7 +167,6 @@ const mapping = {
   'GoToSleep': ['Pro'],
   'kegel': ['kegel_pro'],
   'Ochi': ['Pro'],
-  'Pomodoro': ['Plus','com.MINE.PomodoroTimer.plus.yearly'],
   'universal/': ['Premium','remotetv.yearly.07'],
   'ShellBean/': ['pro','com.ningle.shellbean.subscription.year'],
   'AI%20Art%20Generator/': ['Unlimited Access'],
